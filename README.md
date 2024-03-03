@@ -59,7 +59,7 @@ Pytorch
 Follow the steps for installation given in the official website of Pytorch.
 
 Research Papers
-Multi-grade brain tumor classification using deep CNN with extensive data augmentation
+Multi-class classification of brain tumor types from MR images using EfficientNets
 
 A Deep Learning-Based Framework for Automatic Brain Tumors Classification Using Transfer Learning
 
