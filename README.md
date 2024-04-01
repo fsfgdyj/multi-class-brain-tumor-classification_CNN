@@ -88,8 +88,6 @@ Seaborn - For sophisticated visualization
 Pickle - To save and load binary files of our training data
 Scikit-Learn - Machine learning framework. We have used this for evaluating our Classifier and for cross-validation split
 Matplotlib - To visualize images, losses and accuracy
-Google Colab Drive - To mount Google Drive so we can perform storage and loading operations using it (Only available on Google Colab)
-The above mentioned libraries comes pre-installed and pre-configured with Google Colab.
 
 Install the required libraries on your computer using the pip package manager.
 
@@ -107,11 +105,8 @@ Multi-class classification of brain tumor types from MR images using EfficientNe
 
 A Deep Learning-Based Framework for Automatic Brain Tumors Classification Using Transfer Learning
 
-Deep Residual Learning for Image Recognition (ResNet)
-
 Documentations
 Pytorch
 Future Scopes
-Brain Tumor segmentation using GANs.
 Brain Tumor detection using Object Detection for localization of tumor in a given MRI image of the brain.
 Improve existing classification model and web interface
